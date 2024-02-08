@@ -2,7 +2,7 @@
 
 - `git init`: initialize current folder as a git repository
 - `git clone <url>`: brings the git repo from `<url>` to the current folder
-- `git status`: tess us what we need to know about our repository
+- `git status`: tells us what we need to know about our repository
 
 - `git add <FILE>`: adds `<FILE>` to the stagin area
 - `git commit`: open a text editor to write commit message
@@ -30,3 +30,4 @@
 - `git remote rm <NAME>`: removes the remote calles `<NAME>`
 - `git remote -v`: look at all the remotes you have
 - `git push <WHERE> <WHAT>`: pushes the `<WHAT>` branch to `<WHERE>`
+- `git pull <WHERE> <WHAT>`: pulls the `<WHAT>` branch in `<WHERE>` to the local computer
