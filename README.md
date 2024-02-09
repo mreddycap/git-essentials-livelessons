@@ -20,10 +20,11 @@
 
 - `git restore --source <HASH or HEAD~> <FILE>`: restore FILE to `<HASH or HEAD~>`
 
-  - `git checkout <HASH or HEAD~> <FILE>`: restore FILE to `<HASH or HEAD~>`
-    - `git checkout <HASH or HEAD~>`: if you forget file, you end up in detached HEAD state
-    - `git checkout main`: go back to main
-    - `git switch -`: go back to main
+- `git checkout <HASH or HEAD~> <FILE>`: restore FILE to `<HASH or HEAD~>`
+
+  - `git checkout <HASH or HEAD~>`: if you forget file, you end up in detached HEAD state
+  - `git checkout main`: go back to main
+  - `git switch -`: go back to main
 
 - `git remote add <NAME> <URL>`: adds the `<URL>` as a remote with the name `<NAME>`
   - `<NAME>` is by convention called `origin`
