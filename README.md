@@ -30,7 +30,7 @@
   - `git checkout main`: go back to main
   - `git switch -`: go back to main
 
-### Git notes for wotking with remotes
+### Git notes for working with remotes
 
 - `git remote add <NAME> <URL>`: adds the `<URL>` as a remote with the name `<NAME>`
   - `<NAME>` is by convention called `origin`
