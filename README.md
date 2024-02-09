@@ -1,6 +1,8 @@
 # Git Commands
 
-## Git notes for local work
+## Git Notes
+
+### Git notes for local work
 
 - `git init`: initialize current folder as a git repository
 - `git clone <url>`: brings the git repo from `<url>` to the current folder
@@ -28,7 +30,7 @@
   - `git checkout main`: go back to main
   - `git switch -`: go back to main
 
-## Git notes for wotking with remotes
+### Git notes for wotking with remotes
 
 - `git remote add <NAME> <URL>`: adds the `<URL>` as a remote with the name `<NAME>`
   - `<NAME>` is by convention called `origin`
